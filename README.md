@@ -18,5 +18,5 @@
 
 ### [Tree Filtering: Efficient Structure-Preserving Smoothing With a Minimum Spanning Tree](https://sites.google.com/site/linchaobao/home)
 
-
+### [Edge-Avoiding Wavelets and their Applications](http://www.cs.huji.ac.il/~raananf/projects/eaw/)
 
