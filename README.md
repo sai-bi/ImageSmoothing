@@ -20,3 +20,6 @@
 
 ### [Edge-Avoiding Wavelets and their Applications](http://www.cs.huji.ac.il/~raananf/projects/eaw/)
 
+### [Diffusion Maps for Edge-Aware Image Editing](http://www.cs.huji.ac.il/labs/cglab/projects/diffmaps/)
+
+
