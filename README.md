@@ -14,4 +14,9 @@
 
 ### [Nonlinear total variation based noise removal algorithms](http://en.wikipedia.org/wiki/Total_variation_denoising)
 
-###
+### [Fast Global Image Smoothing Based on Weighted Least Squares](https://sites.google.com/site/globalsmoothing/)
+
+### [Tree Filtering: Efficient Structure-Preserving Smoothing With a Minimum Spanning Tree](https://sites.google.com/site/linchaobao/home)
+
+
+
