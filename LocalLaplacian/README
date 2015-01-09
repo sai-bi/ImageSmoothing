@@ -1,0 +1,20 @@
+% Laplacian Filtering 
+%   - public Matlab implementation for reproducibility
+%   - about 30x slower than our single-thread C++ version
+%
+% These scripts implement edge-aware detail and tone manipulation as 
+% described in Paris, Hasinoff, and Kautz, "Local Laplacian Filters:
+% Edge-aware Image Processing with a Laplacian Pyramid", ACM 
+% Transactions on Graphics (Proc. SIGGRAPH 2011), 30(4), 2011.
+%
+% The key scripts:
+%   lapfilter_core.m  - the core algorithm
+%   lapfilter.m       - wrapper defining our remapping functions, etc.
+%   lapfilter_demo.m  - some examples, and scripts to generate 
+%                       results in supplementary material
+%
+% Includes Laplacian pyramid routines adapted from Tom Mertens'
+% Matlab implementation.
+%
+% sam.hasinoff@gmail.com, April 2011
+%
