@@ -8,3 +8,6 @@
 ```
 
 ```
+### [Edge-Preserving Decompositions for Multi-Scale Tone and Detail Manipulation](http://www.cs.huji.ac.il/~danix/epd/)
+
+### []
